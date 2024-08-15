@@ -1,0 +1,16 @@
+*.pyc
+__pycache__/
+db.sqlite3
+.env
+media/
+static/
+venv/
+.vscode/
+*.log
+local_settings.py
+docs/_build/
+.DS_Store
+**/tcl/
+globeapp/tcl/
+*.gif
+*.tcl
